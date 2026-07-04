@@ -129,5 +129,5 @@ Examples are written in ITK-style C to illustrate the pattern, not to compile as
 
 ## Author
 
-Syed Khair (Foumin) — Senior Design Engineer / Teamcenter PLM Administrator, 20+ years HVAC product engineering and enterprise PLM.
+Syed Khair  — Senior Design Engineer / Teamcenter PLM Administrator, 20+ years HVAC product engineering and enterprise PLM.
 LinkedIn: [syed-khair-plm](https://www.linkedin.com/in/syed-khair-plm)
